@@ -25,11 +25,11 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
     "timeDay": 160,
@@ -37,7 +37,7 @@
     "timeMonth": 181,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-08-25": 7
+      "2023-08-25": 0
     }
   },
   {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.96%",
     "time": 292,
     "timeDay": 128,
-    "timeWeek": 277,
+    "timeWeek": 269,
     "timeMonth": 293,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -89,11 +89,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mbspbs.com.ico",
     "slug": "mpbs",
     "status": "up",
-    "uptime": "77.08%",
+    "uptime": "77.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "77.08%",
+    "uptimeYear": "77.14%",
     "time": 1456,
     "timeDay": 1208,
     "timeWeek": 1540,
