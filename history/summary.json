@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 109,
-    "timeDay": 186,
-    "timeWeek": 87,
+    "timeDay": 77,
+    "timeWeek": 88,
     "timeMonth": 82,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 389,
-    "timeWeek": 199,
-    "timeMonth": 211,
-    "timeYear": 200,
+    "timeDay": 185,
+    "timeWeek": 216,
+    "timeMonth": 212,
+    "timeYear": 199,
     "dailyMinutesDown": {}
   },
   {
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 338,
-    "timeDay": 312,
-    "timeWeek": 257,
-    "timeMonth": 277,
+    "timeDay": 330,
+    "timeWeek": 282,
+    "timeMonth": 276,
     "timeYear": 353,
     "dailyMinutesDown": {
       "2024-04-26": 18,
@@ -88,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mbspbs.com.ico",
     "slug": "mpbs",
     "status": "up",
-    "uptime": "90.06%",
-    "uptimeDay": "91.72%",
+    "uptime": "90.07%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "97.29%",
+    "uptimeYear": "97.57%",
     "time": 1509,
-    "timeDay": 1463,
-    "timeWeek": 1490,
-    "timeMonth": 1483,
-    "timeYear": 1528,
+    "timeDay": 1530,
+    "timeWeek": 1441,
+    "timeMonth": 1479,
+    "timeYear": 1530,
     "dailyMinutesDown": {
       "2024-06-25": 119,
       "2024-03-27": 154,
@@ -109,8 +109,7 @@
       "2023-07-02": 1440,
       "2023-07-01": 1440,
       "2023-06-30": 1440,
-      "2023-06-29": 1440,
-      "2023-06-28": 1440
+      "2023-06-29": 1440
     }
   }
 ]
