@@ -80,9 +80,9 @@
     "slug": "mpbs",
     "status": "up",
     "uptime": "95.18%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 830,
     "timeDay": 7107,
@@ -90,7 +90,6 @@
     "timeMonth": 1071,
     "timeYear": 600,
     "dailyMinutesDown": {
-      "2026-01-23": 11,
       "2025-06-02": 48
     }
   }
