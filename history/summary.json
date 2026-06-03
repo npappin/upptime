@@ -79,17 +79,17 @@
     "url": "https://mbspbs.com",
     "icon": "https://icons.duckduckgo.com/ip3/mbspbs.com.ico",
     "slug": "mpbs",
-    "status": "down",
+    "status": "up",
     "uptime": "95.07%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.07%",
-    "uptimeYear": "97.90%",
-    "time": 579,
-    "timeDay": 400,
-    "timeWeek": 468,
-    "timeMonth": 304,
-    "timeYear": 628,
+    "uptimeDay": "94.38%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "74.89%",
+    "uptimeYear": "97.89%",
+    "time": 578,
+    "timeDay": 333,
+    "timeWeek": 438,
+    "timeMonth": 301,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2026-02-23": 29,
       "2026-02-24": 57,
@@ -103,7 +103,7 @@
       "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
-      "2026-06-03": 0
+      "2026-06-03": 81
     }
   }
 ]
